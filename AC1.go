@@ -13,7 +13,7 @@ func calculaMedia(valores []float64) float64 {
 }
 
 func main() {
-    // Exemplo de uso da função calculaMedia
+    
     valores := []float64{10.5, 15.3, 20.7, 8.9}
     media := calculaMedia(valores)
     fmt.Printf("A média é: %.2f\n", media)
@@ -66,7 +66,7 @@ func converteCelsiusParaFahrenheit(celsius float64) float64 {
 }
 
 func main() {
-    // Exemplo de uso da função converteCelsiusParaFahrenheit
+   
     temperaturaCelsius := 22.0
     temperaturaFahrenheit := converteCelsiusParaFahrenheit(temperaturaCelsius)
     fmt.Printf("%.1f°C corresponde a %.1f°F\n", temperaturaCelsius, temperaturaFahrenheit)
