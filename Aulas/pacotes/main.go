@@ -4,6 +4,7 @@ import(
 	"projeto/modelos"
 	"projeto/modelos/academico"
 )
+// ciontrl shift p -> buil taks -> executar pacote user
 //go mod init projeto
 func main(){
 	fmt.Println("ola,mundo")
