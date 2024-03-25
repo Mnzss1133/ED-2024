@@ -1,7 +1,7 @@
-Questao 1 
+//Questao 1 
 
-package main
-import (
+//package main
+//import (
 	"fmt"
 	"math/rand"
 	"time"

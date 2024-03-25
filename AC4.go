@@ -1,6 +1,6 @@
-package main
+//package main
 
-import "fmt"
+//import "fmt"
 //Questao 1
 func Tower(height int, fromPole, toPole, withPole string) {
 	if height >= 1 {

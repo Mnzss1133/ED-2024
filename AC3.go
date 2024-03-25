@@ -1,6 +1,6 @@
-package main
+//package main
 
-import "fmt"
+//import "fmt"
 
 // Definição do struct Contato
 type Contato struct {
